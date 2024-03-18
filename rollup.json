@@ -1,18 +1,18 @@
 {
   "genesis": {
     "l1": {
-      "hash": "0x62563044b23deae2018946d6784ca408a1c51c38cadc08f90842cfd858ba8ad5",
-      "number": 5474219
+      "hash": "0x4c57c49f9f6fbaa7b852536892b8665b5e74bbb85583b4233137c95f7f950e26",
+      "number": 5499513
     },
     "l2": {
-      "hash": "0x699be79be5ddf7b7bbd775883296faf1f64759d6b34b9a61584d0c1e4db28ff0",
+      "hash": "0xff72300562c987c125b41b8c6fb0bbbfaa5664f8acdc93a1f522f0e7c580c57a",
       "number": 0
     },
-    "l2_time": 1710293088,
+    "l2_time": 1710615264,
     "system_config": {
       "batcherAddr": "0x44b2c9406b8a740c41939ce2e510d96fb34e2fcb",
-      "overhead": "0x0000000000000000000000000000000000000000000000000000000000000834",
-      "scalar": "0x00000000000000000000000000000000000000000000000000000000000f4240",
+      "overhead": "0x00000000000000000000000000000000000000000000000000000000000000bc",
+      "scalar": "0x00000000000000000000000000000000000000000000000000000000000a6fe0",
       "gasLimit": 30000000
     }
   },
@@ -23,14 +23,10 @@
   "l1_chain_id": 11155111,
   "l2_chain_id": 43626,
   "regolith_time": 0,
-  "canyon_time": 0,
   "batch_inbox_address": "0xff00000000000000000000000000000000042069",
-  "deposit_contract_address": "0xb89693c4463a94cb8d922462a08cbbb5dd638284",
-  "l1_system_config_address": "0x6863a116653d4d13a819e9531a295728fc1cec2b",
+  "deposit_contract_address": "0xb1d87d619ee6ae9a1689928a08f77dcb625dca31",
+  "l1_system_config_address": "0x6905944bdd1d7b5c933ca27cc3df78c005e68463",
   "protocol_versions_address": "0x0000000000000000000000000000000000000000",
-  "da_challenge_address": "0x0000000000000000000000000000000000000000",
-  "da_challenge_window": 0,
-  "da_resolve_window": 0,
-  "use_plasma": false
+  "da_challenge_address": "0x0000000000000000000000000000000000000000"
 }
 
